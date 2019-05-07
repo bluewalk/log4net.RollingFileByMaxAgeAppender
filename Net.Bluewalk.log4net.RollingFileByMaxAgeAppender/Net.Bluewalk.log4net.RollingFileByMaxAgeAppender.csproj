@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <Authors>Bluewak</Authors>
+    <Company>Bluewalk</Company>
+    <Product>log4net RollingFileByMaxAgeAppender</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/bluewalk/log4net.RollingFileByMaxAgeAppender</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/bluewalk/log4net.RollingFileByMaxAgeAppender</RepositoryUrl>
+    <PackageTags>lgo4net rolling file appender date delete</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>A RollingFile Appender fo log4net that deletes old logfiles</Description>
+    <RepositoryType>Git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.8" />
+  </ItemGroup>
+
+</Project>
