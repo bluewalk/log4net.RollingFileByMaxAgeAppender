@@ -12,9 +12,10 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>A RollingFile Appender for log4net that deletes old logfiles</Description>
     <RepositoryType>Git</RepositoryType>
-    <AssemblyVersion>1.0.0.1</AssemblyVersion>
-    <FileVersion>1.0.0.1</FileVersion>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
     <PackageReleaseNotes>* Target multiple frameworks</PackageReleaseNotes>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
