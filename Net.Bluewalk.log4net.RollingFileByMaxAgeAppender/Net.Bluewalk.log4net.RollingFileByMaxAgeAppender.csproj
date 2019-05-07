@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard1.3</TargetFramework>
+    <TargetFrameworks>netstandard1.3;netstandard2.0;net45;net46;net47</TargetFrameworks>
     <Authors>Bluewak</Authors>
     <Company>Bluewalk</Company>
     <Product>log4net RollingFileByMaxAgeAppender</Product>
@@ -12,6 +12,9 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>A RollingFile Appender for log4net that deletes old logfiles</Description>
     <RepositoryType>Git</RepositoryType>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <PackageReleaseNotes>* Target multiple frameworks</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,3 +22,5 @@
   </ItemGroup>
 
 </Project>
+
+
