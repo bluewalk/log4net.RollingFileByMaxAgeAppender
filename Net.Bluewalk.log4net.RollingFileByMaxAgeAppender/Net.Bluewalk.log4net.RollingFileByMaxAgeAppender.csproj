@@ -10,7 +10,7 @@
     <RepositoryUrl>https://github.com/bluewalk/log4net.RollingFileByMaxAgeAppender</RepositoryUrl>
     <PackageTags>lgo4net rolling file appender date delete</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Description>A RollingFile Appender fo log4net that deletes old logfiles</Description>
+    <Description>A RollingFile Appender for log4net that deletes old logfiles</Description>
     <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
