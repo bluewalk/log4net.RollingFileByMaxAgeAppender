@@ -1,5 +1,5 @@
 # log4net.RollingFileByMaxAgeAppender
-A RollingFile Appender fo log4net that deletes old logfiles
+A RollingFile Appender for log4net that deletes old logfiles
 
 ## NuGet Package
 This appender is available as a [NuGet package](https://www.nuget.org/packages/Net.Bluewalk.log4net.RollingFileByMaxAgeAppender/).
